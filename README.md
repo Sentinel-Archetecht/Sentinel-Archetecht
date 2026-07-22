@@ -4,6 +4,7 @@
        alt="Sovereign Remote Viewer">
   <br><br>
 
+
   ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square)
 
   ![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
@@ -13,7 +14,6 @@
 </div>
 
 <br>
-
 A local-first, zero-trust DApp built for data sovereignty.
 
 **Core Features:**
