@@ -1,4 +1,4 @@
-
+https://github.com/Sentinel-Archetecht/The-Remote-Viewer/blob/TheRemoteViewer/TheRemoteViewer.jpg
 
 A local-first, zero-trust DApp built for data sovereignty.
 ​Core Features:
