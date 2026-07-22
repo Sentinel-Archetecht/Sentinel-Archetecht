@@ -14,7 +14,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square)
 
 </div>
-![Stars](https://img.shields.io/github/stars/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square
+(https://img.shields.io/github/stars/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square
 
 A local-first, zero-trust DApp built for data sovereignty.
 ​Core Features:
