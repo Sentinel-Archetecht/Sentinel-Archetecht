@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/-54geiv.jpg" 
-       width="70%" 
-       alt="The Remote Viewer">
+       width="50%" 
+       alt="Sovereign Remote Viewer">
   <br><br>
 </div>
 
