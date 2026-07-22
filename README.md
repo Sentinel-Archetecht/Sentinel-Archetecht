@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/TheRemoteViewer.jpg" 
-       width="70%" 
-       alt="Sovereign Remote Viewer">
+  <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/TheRemoteViewer.jpg" width="70%" alt="Sovereign Remote Viewer">
   <br><br>
 
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square)
-
-  ![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
-  ![Repo Size](https://img.shields.io/github/repo-size/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square) 
+  ![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square) 
+  ![Repo Size](https://img.shields.io/github/repo-size/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square) 
   ![Last Commit](https://img.shields.io/github/last-commit/Sentinel-Archetecht/The-Remote-Viewer?style=flat-square)
+</div>
 
 </div>
 
