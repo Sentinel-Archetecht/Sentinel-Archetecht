@@ -10,17 +10,34 @@
 
 <br>
 
-**The Remote Viewer** — A sovereign, local-first, zero-trust decentralized application focused on data sovereignty and secure remote access.
+<div align="center">
+  <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/TheRemoteViewer.jpg" 
+       width="80%" 
+       alt="The Remote Viewer">
+</div>
+
+<br>
+
+**The Remote Viewer** is a local-first, zero-trust decentralized application focused on data sovereignty and secure remote access.
 
 ### Features
 - Post-quantum cryptography (Dilithium + Kyber)
-- eBPF + TPM 2.0 based security
-- Spatial authentication via LiDAR + BLE
-- Peer-to-peer mesh networking (libp2p)
+- Kernel-level security using eBPF and TPM 2.0
+- Spatial authentication via LiDAR and BLE
+- Peer-to-peer networking with libp2p
 - Fully local-first architecture
 
-### Security Research Notice
-This project is operated as a **honeypot** for defensive security research. All interactions are logged and monitored. By using or interacting with this project you consent to monitoring and acknowledge there is no expectation of privacy.
+### Security Notice
+This project is used for defensive security research. All access and interactions are logged and monitored. By using or interacting with this project, you consent to such monitoring.
+
+### Getting Started
+*Coming soon*
+
+### Contributing
+Contributions and responsible research are welcome.
+
+### License
+Copyright (c) 2026. All Rights Reserved.
 
 ### Getting Started
 (You can add real or placeholder installation instructions here later)
@@ -33,9 +50,6 @@ This project is operated as a **honeypot** for defensive security research. All 
 
 ### Contributing
 Contributions, research, and responsible security testing are welcome.
-
-### License
-Copyright (c) 2026. All Rights Reserved.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square)
 
