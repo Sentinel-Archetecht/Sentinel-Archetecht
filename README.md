@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sentinel-Archetecht/The-Remote-Viewer/main/TheRemoteViewer.jpg" 
+       width="70%" 
+       alt="Sovereign Remote Viewer">
+  <br><br>
+</div>
 https://github.com/Sentinel-Archetecht/The-Remote-Viewer/blob/TheRemoteViewer/TheRemoteViewer.jpg
 
 A local-first, zero-trust DApp built for data sovereignty.
