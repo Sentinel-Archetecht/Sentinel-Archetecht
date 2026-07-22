@@ -8,13 +8,40 @@
 
 <div align="center">
 
-> **⚠️ Security Research Notice**
->
-> This project operates as a **honeypot** for defensive security research and threat intelligence purposes.
->
-> All access and interactions are logged and monitored. By accessing, cloning, or interacting with this repository or any associated systems, you consent to such monitoring and acknowledge that there is no expectation of privacy.
->
-> Activity detected here may be analyzed and shared with relevant authorities where appropriate.
+<div align="center">
+  <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/TheRemoteViewer.jpg" 
+       width="80%" 
+       alt="The Remote Viewer">
+</div>
+
+<br>
+
+**The Remote Viewer** — A sovereign, local-first, zero-trust decentralized application focused on data sovereignty and secure remote access.
+
+### Features
+- Post-quantum cryptography (Dilithium + Kyber)
+- eBPF + TPM 2.0 based security
+- Spatial authentication via LiDAR + BLE
+- Peer-to-peer mesh networking (libp2p)
+- Fully local-first architecture
+
+### Security Research Notice
+This project is operated as a **honeypot** for defensive security research. All interactions are logged and monitored. By using or interacting with this project you consent to monitoring and acknowledge there is no expectation of privacy.
+
+### Getting Started
+(You can add real or placeholder installation instructions here later)
+
+### Roadmap
+- [ ] Core protocol implementation
+- [ ] Post-quantum crypto integration
+- [ ] Spatial authentication module
+- [ ] Production hardening & audit
+
+### Contributing
+Contributions, research, and responsible security testing are welcome.
+
+### License
+Copyright (c) 2026. All Rights Reserved.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square)
 
@@ -25,18 +52,3 @@
 </div>
 
 <br>
-
-**A local-first, zero-trust DApp built for data sovereignty.**
-
-### Core Features
-- **Security**: eBPF kernel hooks & TPM 2.0 attestation
-- **Crypto**: Post-quantum Dilithium & Kyber
-- **Auth**: LiDAR spatial geometry & BLE presence
-- **Network**: Peer-to-peer libp2p mesh
-
----
-https://signal.me/#eu/67sOtMSgStX08J_CAc7U8Dnh86lLDW1Rgk1xQW6PrkKlwfwQKERE_KawgjnPtIAI
-
-### License
-Copyright (c) 2026. All Rights Reserved.  
-Published strictly for peer review and prior art verification. No permission is granted to compile, execute, modify, or distribute.
