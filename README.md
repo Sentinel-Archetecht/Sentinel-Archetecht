@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://github.com/Sentinel-Archetecht/The-Remote-Viewer/raw/main/banner.jpg" 
        width="100%" 
        alt="Sovereign Remote Viewer">
