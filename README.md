@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/Sentinel-Archetecht/Sentinel-Archetecht/raw/main/banner.jpg" 
+       width="100%" 
+       alt="Sovereign Remote Viewer - Consciousness Redefined">
+  <br><br>
+</div>
 A local-first, zero-trust DApp built for data sovereignty.
 ​Core Features:
 ​Security: eBPF kernel hooks & TPM 2.0 attestation
