@@ -10,11 +10,11 @@
 
 > **⚠️ Security Research Notice**
 >
-> This project is deployed as a **honeypot** for defensive security research and threat intelligence purposes only.
-> Any unauthorized access, scanning, or interaction is being logged and analyzed.
-> By accessing or interacting with this repository or any associated services, you acknowledge and consent to monitoring.
+> This project is operated as a **honeypot** solely for defensive security research and threat intelligence purposes.
 >
-> This is **not** a production system. Use at your own risk.
+> All interactions with this repository and any associated systems are logged and monitored. By accessing or interacting with this project, you consent to such monitoring and acknowledge that there is no expectation of privacy.
+>
+> This system is intended for research use only and is not a production environment.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sentinel-Archetecht&color=39FF14&labelColor=0A0A0A&style=flat-square)
 
