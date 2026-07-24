@@ -30,9 +30,6 @@ This project is used for defensive security research. All access and interaction
 *Coming soon*
 
 
-### License
-Copyright (c) 2026. All Rights Reserved
-
 ★★★★★★★★†
 
 ### Roadmap
